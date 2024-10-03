@@ -1,0 +1,24 @@
+img{
+    height: 430px;
+    width: 500px;
+    border-radius: 12px;
+    ;
+   
+   }
+   h1{
+       text-align: center;
+       color: white;
+       background-color: purple;
+       
+   }
+   .cake{
+       text-align: center;
+       height: 430px;
+    
+   }
+   .main{
+       display: flex;
+   }
+   .content{
+    margin-left: 30px;
+   }
